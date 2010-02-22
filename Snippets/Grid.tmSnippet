@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@grid
+{
+    grid-width: $1;
+    right-gutter-width: $2;
+    left-gutter-width: $3;
+    column-count: $4;
+    baseline: $5;
+}</string>
+	<key>name</key>
+	<string>Grid</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>grid</string>
+	<key>uuid</key>
+	<string>D66FA026-6952-458B-BB13-E40F7C2198C5</string>
+</dict>
+</plist>
