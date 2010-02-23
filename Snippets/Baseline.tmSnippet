@@ -3,21 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@grid
-{
-    grid-width: ${1:960};
-    right-gutter-width: ${2:10};
-    left-gutter-width: ${3:10};
-    column-count: ${4:12};
-    baseline: ${5:18};
-}</string>
+	<string>+baseline(${1:X})</string>
 	<key>name</key>
-	<string>Grid</string>
+	<string>Baseline</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>grid</string>
+	<string>base</string>
 	<key>uuid</key>
-	<string>D66FA026-6952-458B-BB13-E40F7C2198C5</string>
+	<string>5964ECA0-5BF8-4B70-B7EE-0B2DE15FDDD7</string>
 </dict>
 </plist>
