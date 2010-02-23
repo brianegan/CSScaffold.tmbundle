@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>+warnock</string>
+	<key>name</key>
+	<string>Warnock Font Stack</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>war</string>
+	<key>uuid</key>
+	<string>37FFF5D5-23E8-4F00-8A4B-41F137B54A35</string>
+</dict>
+</plist>

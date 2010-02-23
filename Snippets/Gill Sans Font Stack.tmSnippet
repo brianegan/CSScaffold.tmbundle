@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>+gillsans</string>
+	<key>name</key>
+	<string>Gill Sans Font Stack</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>gs</string>
+	<key>uuid</key>
+	<string>5440F60D-4001-4A53-8D89-31F5396D35D5</string>
+</dict>
+</plist>

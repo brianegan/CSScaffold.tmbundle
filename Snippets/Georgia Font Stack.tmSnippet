@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>+georgia</string>
+	<key>name</key>
+	<string>Georgia Font Stack</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>luc</string>
+	<key>uuid</key>
+	<string>ED4E6B26-9876-4261-AD3F-68375E253FBF</string>
+</dict>
+</plist>

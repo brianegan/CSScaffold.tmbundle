@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>+sharpen</string>
+	<key>name</key>
+	<string>Sharpen Blurry Flat Color Image</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>sharpen</string>
+	<key>uuid</key>
+	<string>836F0AFD-E2EB-47BD-8E65-C0B8A5B5D4FE</string>
+</dict>
+</plist>
