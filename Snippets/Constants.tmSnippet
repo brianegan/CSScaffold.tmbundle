@@ -2,15 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
-        <key>content</key>
-        <string>+border-bottom-right-radius(${1:radius});</string>
         <key>name</key>
-        <string>Border Radius Bottom Right</string>
+        <string>Constants</string>
+        <key>uuid</key>
+        <string>5DFDF1EC-0FF3-4F11-A7E4-F726A2361C5C</string>
+        <key>content</key>
+        <string>@constants
+{
+    ${1:name}: ${2:value};
+}</string>
         <key>scope</key>
         <string>source.css</string>
         <key>tabTrigger</key>
-        <string>br:br</string>
-        <key>uuid</key>
-        <string>938F07DA-9987-4E10-B399-CCEF19C18FEF</string>
+        <string>const</string>
     </dict>
 </plist>

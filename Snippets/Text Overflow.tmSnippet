@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>content</key>
-	<string>+text-overflow(${1:type})</string>
-	<key>name</key>
-	<string>Text Overflow</string>
-	<key>scope</key>
-	<string>source.css</string>
-	<key>tabTrigger</key>
-	<string>to</string>
-	<key>uuid</key>
-	<string>84033D14-4612-4C76-BDE9-AB794A7A3D04</string>
-</dict>
+    <dict>
+        <key>content</key>
+        <string>+text-overflow(${1:type});</string>
+        <key>name</key>
+        <string>Text Overflow</string>
+        <key>scope</key>
+        <string>source.css</string>
+        <key>tabTrigger</key>
+        <string>to</string>
+        <key>uuid</key>
+        <string>84033D14-4612-4C76-BDE9-AB794A7A3D04</string>
+    </dict>
 </plist>

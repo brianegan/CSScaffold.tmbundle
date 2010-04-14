@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>content</key>
-	<string>+hide</string>
-	<key>name</key>
-	<string>Accessible Element Hiding</string>
-	<key>scope</key>
-	<string>source.css</string>
-	<key>tabTrigger</key>
-	<string>hide</string>
-	<key>uuid</key>
-	<string>B072947E-C41A-4E80-963B-05AB35EB48CE</string>
-</dict>
+    <dict>
+        <key>content</key>
+        <string>+hide;</string>
+        <key>name</key>
+        <string>Accessible Element Hiding</string>
+        <key>scope</key>
+        <string>source.css</string>
+        <key>tabTrigger</key>
+        <string>hide</string>
+        <key>uuid</key>
+        <string>B072947E-C41A-4E80-963B-05AB35EB48CE</string>
+    </dict>
 </plist>

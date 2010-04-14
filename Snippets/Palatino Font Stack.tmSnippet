@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>content</key>
-	<string>+palatino</string>
-	<key>name</key>
-	<string>Palatino Font Stack</string>
-	<key>scope</key>
-	<string>source.css</string>
-	<key>tabTrigger</key>
-	<string>pal</string>
-	<key>uuid</key>
-	<string>A1F873C4-96DA-4380-A066-A903B62B537C</string>
-</dict>
+    <dict>
+        <key>content</key>
+        <string>+palatino;</string>
+        <key>name</key>
+        <string>Palatino Font Stack</string>
+        <key>scope</key>
+        <string>source.css</string>
+        <key>tabTrigger</key>
+        <string>pal</string>
+        <key>uuid</key>
+        <string>A1F873C4-96DA-4380-A066-A903B62B537C</string>
+    </dict>
 </plist>

@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>content</key>
-	<string>+background-size(${1:x}, ${2:y})</string>
-	<key>name</key>
-	<string>Background Size</string>
-	<key>scope</key>
-	<string>source.css</string>
-	<key>tabTrigger</key>
-	<string>bgs</string>
-	<key>uuid</key>
-	<string>745EF6A6-18E3-474F-AF17-708DA2322489</string>
-</dict>
+    <dict>
+        <key>content</key>
+        <string>+background-size(${1:x}, ${2:y});</string>
+        <key>name</key>
+        <string>Background Size</string>
+        <key>scope</key>
+        <string>source.css</string>
+        <key>tabTrigger</key>
+        <string>bgs</string>
+        <key>uuid</key>
+        <string>745EF6A6-18E3-474F-AF17-708DA2322489</string>
+    </dict>
 </plist>

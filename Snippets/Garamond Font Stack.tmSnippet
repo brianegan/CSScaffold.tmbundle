@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>content</key>
-	<string>+garamond</string>
-	<key>name</key>
-	<string>Garamond Font Stack</string>
-	<key>scope</key>
-	<string>source.css</string>
-	<key>tabTrigger</key>
-	<string>gara</string>
-	<key>uuid</key>
-	<string>86555041-321B-49A3-97BF-997518F0EE41</string>
-</dict>
+    <dict>
+        <key>content</key>
+        <string>+garamond;</string>
+        <key>name</key>
+        <string>Garamond Font Stack</string>
+        <key>scope</key>
+        <string>source.css</string>
+        <key>tabTrigger</key>
+        <string>gara</string>
+        <key>uuid</key>
+        <string>86555041-321B-49A3-97BF-997518F0EE41</string>
+    </dict>
 </plist>

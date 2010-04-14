@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>content</key>
-	<string>+rotate(${1:angle})</string>
-	<key>name</key>
-	<string>Rotate</string>
-	<key>scope</key>
-	<string>source.css</string>
-	<key>tabTrigger</key>
-	<string>rot</string>
-	<key>uuid</key>
-	<string>6C2F718A-3972-4B6E-843F-26E625678037</string>
-</dict>
+    <dict>
+        <key>content</key>
+        <string>+rotate(${1:angle});</string>
+        <key>name</key>
+        <string>Rotate</string>
+        <key>scope</key>
+        <string>source.css</string>
+        <key>tabTrigger</key>
+        <string>rot</string>
+        <key>uuid</key>
+        <string>6C2F718A-3972-4B6E-843F-26E625678037</string>
+    </dict>
 </plist>

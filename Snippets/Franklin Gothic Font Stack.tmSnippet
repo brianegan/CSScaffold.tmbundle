@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>content</key>
-	<string>+franklingothic</string>
-	<key>name</key>
-	<string>Franklin Gothic Font Stack</string>
-	<key>scope</key>
-	<string>source.css</string>
-	<key>tabTrigger</key>
-	<string>fg</string>
-	<key>uuid</key>
-	<string>54EE79C7-BA98-42FF-8ED2-484231F8A781</string>
-</dict>
+    <dict>
+        <key>content</key>
+        <string>+franklingothic;</string>
+        <key>name</key>
+        <string>Franklin Gothic Font Stack</string>
+        <key>scope</key>
+        <string>source.css</string>
+        <key>tabTrigger</key>
+        <string>fg</string>
+        <key>uuid</key>
+        <string>54EE79C7-BA98-42FF-8ED2-484231F8A781</string>
+    </dict>
 </plist>
